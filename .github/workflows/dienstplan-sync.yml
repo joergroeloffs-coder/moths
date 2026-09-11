@@ -37,11 +37,6 @@ jobs:
           # Optional, sonst gilt die Vorgabe im Skript:
           # WDR_WEEKS_AHEAD: "8"
         run: python dienstplan_cloud_sync.py
-      - name: Push to Google Calendar
-        env:
-          GOOGLE_SA_KEY_B64: ${{ secrets.GOOGLE_SA_KEY_B64 }}
-          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
-        run: python google_calendar_push.py
       - name: Commit and push changes
         run: |
           git config user.name "dienstplan-bot"
