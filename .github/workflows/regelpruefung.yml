@@ -1,0 +1,29 @@
+name: Regelpruefung
+
+# Nur von Hand startbar, kein Zeitplan. Aendert nichts im Repository,
+# schreibt keine Dateien - gibt nur eine Auswertung im Protokoll aus.
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  analyse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Regel pruefen
+        env:
+          WDR_USER: ${{ secrets.WDR_USER }}
+          WDR_PASS: ${{ secrets.WDR_PASS }}
+        run: python analyse_vorhersage.py

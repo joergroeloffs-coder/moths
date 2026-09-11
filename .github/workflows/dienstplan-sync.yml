@@ -1,0 +1,59 @@
+name: Dienstplan Sync
+
+on:
+  schedule:
+    # alle 12 Stunden (UTC). Oefter bringt nichts, weil Google Kalender
+    # externe ICS-Abos ohnehin nur alle 8-24 Stunden neu einliest.
+  
+    - cron: "17 * * * *"
+
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Verhindert, dass ein manuell gestarteter Lauf mit dem Zeitplan kollidiert.
+concurrency:
+  group: dienstplan-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          WDR_USER: ${{ secrets.WDR_USER }}
+          WDR_PASS: ${{ secrets.WDR_PASS }}
+          # Optional, sonst gelten die Vorgaben im Skript:
+          # WDR_NAME_FRAGMENT: Roeloffs
+          # WDR_WEEKS_AHEAD: "8"
+        run: python dienstplan_cloud_sync.py
+      - name: Push to Google Calendar
+        env:
+          GOOGLE_SA_KEY_B64: ${{ secrets.GOOGLE_SA_KEY_B64 }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+        run: python google_calendar_push.py
+      - name: Commit and push changes
+        run: |
+          git config user.name "dienstplan-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A docs state.json
+          if git diff --quiet --cached; then
+            echo "Keine Aenderungen."
+            exit 0
+          fi
+          git commit -m "Dienstplan aktualisiert"
+          # Falls zwischenzeitlich anderweitig gepusht wurde.
+          git pull --rebase --autostash
+          git push

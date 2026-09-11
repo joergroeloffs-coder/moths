@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dienstplan Sync//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dienst
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:dienstplan-2026-W34@wdr-besatzungsliste
+DTSTAMP:20260815T164200Z
+LAST-MODIFIED:20260815T164200Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260822
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 34/2026\, Stand: 2026-08-15 16:42\, Datei: 34KW2026 2. Änderung.pdf
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260828@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260829@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk (direkt)\n18:15 Wittdün-Wyk (direkt)\n20:00 Dagebüll-Wyk\n20:55 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260830@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n7:10 Wittdün-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk (direkt)\n18:15 Wittdün-Wyk (direkt)\n20:00 Dagebüll-Wyk\n20:55 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260831@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260901@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260902@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260903@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W36-20260904@wdr-besatzungsliste
+DTSTAMP:20260902T171700Z
+LAST-MODIFIED:20260902T171700Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 36/2026\, Stand: 2026-09-02 17:17\, Datei: 36KW2026 5. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260911@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260912@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk (direkt)\n18:15 Wittdün-Wyk (direkt)\n20:00 Dagebüll-Wyk\n20:55 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260913@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n7:10 Wittdün-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:31 Dagebüll-Wyk (direkt)\n18:15 Wittdün-Wyk (direkt)\n20:00 Dagebüll-Wyk\n20:55 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260914@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260915@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260916@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260917@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W38-20260918@wdr-besatzungsliste
+DTSTAMP:20260910T045300Z
+LAST-MODIFIED:20260910T045300Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
+DESCRIPTION:KW 38/2026\, Stand: 2026-09-10 04:53\, Datei: 38KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n10:40 Dagebüll-Wyk\n11:50 Wyk-Dagebüll\n13:00 Dagebüll-Wyk (direkt)\n15:15 Wittdün-Wyk\n16:30 Wyk-Dagebüll\n18:00 Dagebüll-Wyk\n19:00 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W41@wdr-besatzungsliste
+DTSTAMP:20260909T055100Z
+LAST-MODIFIED:20260909T055100Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261010
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 41/2026\, Stand: 2026-09-09 05:51\, Datei: 41KW2026.pdf
+END:VEVENT
+END:VCALENDAR
