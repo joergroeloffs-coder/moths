@@ -125,12 +125,12 @@
     "date_from": "2026-10-09",
     "date_to": "2026-10-16",
     "farbe_schiff": null,
-    "file": "42KW2026.pdf",
-    "mtime": "2026-09-16 07:56",
+    "file": "42KW2026 1. Änderung.pdf",
+    "mtime": "2026-09-20 18:12",
     "nachbar_links": "URLAUB",
     "rang": "NWB*",
-    "revision": 0,
-    "sequence": 1,
+    "revision": 1,
+    "sequence": 2,
     "summary": "Urlaub"
   },
   "2026-W43": {
