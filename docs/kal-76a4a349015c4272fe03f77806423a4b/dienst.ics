@@ -168,92 +168,92 @@ DESCRIPTION:KW 37/2026\, Stand: 2026-09-10 04:52\, Datei: 37KW2026 4. Änderung.
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260918@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260919@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:35 Dagebüll-Wyk\n13:45 Wyk-Dagebüll\n15:05 Dagebüll-Wyk\n16:00 Wyk-Wittdün\n17:25 Wittdün-Wyk\n18:40 Wyk-Dagebüll\n20:00 Dagebüll-Wyk\n20:55 Wyk-Wittdün
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:35 Dagebüll-Wyk\n13:45 Wyk-Dagebüll\n15:05 Dagebüll-Wyk\n16:00 Wyk-Wittdün\n17:25 Wittdün-Wyk\n18:40 Wyk-Dagebüll\n20:00 Dagebüll-Wyk\n20:55 Wyk-Wittdün
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260920@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n7:10 Wittdün-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n7:10 Wittdün-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260921@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260922@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260923@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260924@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W39-20260925@wdr-besatzungsliste
-DTSTAMP:20260913T195300Z
-LAST-MODIFIED:20260913T195300Z
-SEQUENCE:1
+DTSTAMP:20260920T173000Z
+LAST-MODIFIED:20260920T173000Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 39/2026\, Stand: 2026-09-13 19:53\, Datei: 39KW2026 2. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
+DESCRIPTION:KW 39/2026\, Stand: 2026-09-20 17:30\, Datei: 39KW2026 3. Änderung.pdf\n\nAbfahrten:\n5:00 Wyk-Dagebüll\n6:10 Dagebüll-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk (direkt)\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n19:00 Dagebüll-Wyk
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W41@wdr-besatzungsliste
-DTSTAMP:20260913T200400Z
-LAST-MODIFIED:20260913T200400Z
-SEQUENCE:1
+DTSTAMP:20260920T174400Z
+LAST-MODIFIED:20260920T174400Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261010
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 41/2026\, Stand: 2026-09-13 20:04\, Datei: 41KW2026 1. Änderung.pdf
+DESCRIPTION:KW 41/2026\, Stand: 2026-09-20 17:44\, Datei: 41KW2026 2. Änderung.pdf
 END:VEVENT
 END:VCALENDAR
