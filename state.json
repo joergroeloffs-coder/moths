@@ -180,5 +180,17 @@
     "rang": null,
     "sequence": 0,
     "summary": null
+  },
+  "2026-W47": {
+    "category": null,
+    "date_from": null,
+    "date_to": null,
+    "farbe_schiff": null,
+    "file": null,
+    "mtime": null,
+    "nachbar_links": null,
+    "rang": null,
+    "sequence": 0,
+    "summary": null
   }
 }
