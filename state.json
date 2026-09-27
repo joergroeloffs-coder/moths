@@ -125,12 +125,12 @@
     "date_from": "2026-10-09",
     "date_to": "2026-10-16",
     "farbe_schiff": null,
-    "file": "42KW2026 1. Änderung.pdf",
-    "mtime": "2026-09-20 18:12",
+    "file": "42KW2026 2. Änderung.pdf",
+    "mtime": "2026-09-27 22:55",
     "nachbar_links": "URLAUB",
     "rang": "NWB*",
-    "revision": 1,
-    "sequence": 2,
+    "revision": 2,
+    "sequence": 3,
     "summary": "Urlaub"
   },
   "2026-W43": {
@@ -138,12 +138,12 @@
     "date_from": "2026-10-16",
     "date_to": "2026-10-23",
     "farbe_schiff": "UTHLANDE",
-    "file": "43KW2026.pdf",
-    "mtime": "2026-09-23 05:45",
+    "file": "43KW2026 1. Änderung.pdf",
+    "mtime": "2026-09-27 22:58",
     "nachbar_links": "URLAUB",
     "rang": "NWB*",
-    "revision": 0,
-    "sequence": 1,
+    "revision": 1,
+    "sequence": 2,
     "summary": "Urlaub"
   },
   "2026-W44": {
