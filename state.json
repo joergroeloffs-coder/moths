@@ -219,16 +219,17 @@
     "summary": "Freie Tage"
   },
   "2026-W48": {
-    "category": null,
-    "date_from": null,
-    "date_to": null,
+    "category": "UTHLANDE",
+    "date_from": "2026-11-20",
+    "date_to": "2026-11-27",
     "farbe_schiff": null,
-    "file": null,
-    "mtime": null,
-    "nachbar_links": null,
-    "rang": null,
-    "sequence": 0,
-    "summary": null
+    "file": "48KW2026.pdf",
+    "mtime": "2026-10-28 05:18",
+    "nachbar_links": "Freie Tage",
+    "rang": "NWB*",
+    "revision": 0,
+    "sequence": 1,
+    "summary": "Dienst auf UTHLANDE"
   },
   "2026-W49": {
     "category": null,
