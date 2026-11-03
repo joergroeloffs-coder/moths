@@ -193,6 +193,16 @@
     "summary": "Freie Tage"
   },
   "2026-W46": {
+    "abfahrten_pro_tag": {
+      "06.11.2026": "6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün\n20:40 Wittdün-Wyk (vorl.)",
+      "07.11.2026": "15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün",
+      "08.11.2026": "7:10 Wittdün-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk\n13:20 Wyk-Dagebüll\n15:05 Dagebüll-Wyk\n16:00 Wyk-Wittdün\n17:25 Wittdün-Wyk\n18:40 Wyk-Dagebüll\n19:45 Dagebüll-Wyk",
+      "09.11.2026": "6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:00 Dagebüll-Wyk",
+      "10.11.2026": "6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:00 Dagebüll-Wyk",
+      "11.11.2026": "6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:00 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün",
+      "12.11.2026": "6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün",
+      "13.11.2026": "6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün\n20:40 Wittdün-Wyk (vorl.)"
+    },
     "category": "SCHLESWIG - HOLSTEIN",
     "date_from": "2026-11-06",
     "date_to": "2026-11-13",
