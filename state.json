@@ -255,16 +255,17 @@
     "summary": "Freie Tage"
   },
   "2026-W50": {
-    "category": null,
-    "date_from": null,
-    "date_to": null,
+    "category": "STCW-Refresher",
+    "date_from": "2026-12-04",
+    "date_to": "2026-12-11",
     "farbe_schiff": null,
-    "file": null,
-    "mtime": null,
+    "file": "50KW2026.pdf",
+    "mtime": "2026-11-11 05:41",
     "nachbar_links": null,
-    "rang": null,
-    "sequence": 0,
-    "summary": null
+    "rang": "NWB*",
+    "revision": 0,
+    "sequence": 1,
+    "summary": "Dienst auf STCW-Refresher"
   },
   "2026-W51": {
     "category": null,
