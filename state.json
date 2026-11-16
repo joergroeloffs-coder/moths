@@ -318,5 +318,17 @@
     "revision": 0,
     "sequence": 1,
     "summary": "Dienst auf UTHLANDE"
+  },
+  "2027-W02": {
+    "category": null,
+    "date_from": null,
+    "date_to": null,
+    "farbe_schiff": null,
+    "file": null,
+    "mtime": null,
+    "nachbar_links": null,
+    "rang": null,
+    "sequence": 0,
+    "summary": null
   }
 }
