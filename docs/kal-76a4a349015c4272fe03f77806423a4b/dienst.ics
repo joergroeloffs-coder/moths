@@ -487,14 +487,84 @@ SUMMARY:Dienst auf SCHLESWIG - HOLSTEIN
 DESCRIPTION:KW 46/2026\, Stand: 2026-11-05 06:09\, Datei: 46KW2026 1. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün\n20:40 Wittdün-Wyk (vorl.)
 END:VEVENT
 BEGIN:VEVENT
-UID:dienstplan-2026-W48@wdr-besatzungsliste
+UID:dienstplan-2026-W48-20261120@wdr-besatzungsliste
 DTSTAMP:20261105T061100Z
 LAST-MODIFIED:20261105T061100Z
 SEQUENCE:3
 DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:00 Dagebüll-Wyk\n13:20 Wyk-Dagebüll\n15:05 Dagebüll-Wyk\n16:00 Wyk-Wittdün\n17:25 Wittdün-Wyk\n18:40 Wyk-Dagebüll\n19:45 Dagebüll-Wyk\n20:40 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261121@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n7:10 Wittdün-Wyk\n8:20 Wyk-Dagebüll\n9:35 Dagebüll-Wyk\n10:35 Wyk-Wittdün\n12:05 Wittdün-Wyk\n13:20 Wyk-Dagebüll\n15:05 Dagebüll-Wyk\n16:00 Wyk-Wittdün\n17:25 Wittdün-Wyk\n18:40 Wyk-Dagebüll\n19:45 Dagebüll-Wyk
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261122@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261123@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261124@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk\n15:15 Wyk-Dagebüll\n16:30 Dagebüll-Wyk\n17:40 Wyk-Dagebüll\n18:45 Dagebüll-Wyk\n19:40 Wyk-Wittdün
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261125@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wittdün-Wyk\n7:15 Wyk-Dagebüll\n8:25 Dagebüll-Wyk\n9:35 Wyk-Dagebüll\n11:00 Dagebüll-Wyk\n12:10 Wyk-Dagebüll\n14:05 Dagebüll-Wyk
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261126@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Dienst auf UTHLANDE
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:00 Dagebüll-Wyk
+END:VEVENT
+BEGIN:VEVENT
+UID:dienstplan-2026-W48-20261127@wdr-besatzungsliste
+DTSTAMP:20261105T061100Z
+LAST-MODIFIED:20261105T061100Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Dienst auf UTHLANDE
-DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf
+DESCRIPTION:KW 48/2026\, Stand: 2026-11-05 06:11\, Datei: 48KW2026 3. Änderung.pdf\n\nAbfahrten:\n6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk\n10:50 Wyk-Dagebüll\n12:00 Dagebüll-Wyk\n13:20 Wyk-Dagebüll\n15:05 Dagebüll-Wyk\n16:00 Wyk-Wittdün\n17:25 Wittdün-Wyk\n18:40 Wyk-Dagebüll\n19:45 Dagebüll-Wyk\n20:40 Wyk-Wittdün
 END:VEVENT
 BEGIN:VEVENT
 UID:dienstplan-2026-W50@wdr-besatzungsliste
