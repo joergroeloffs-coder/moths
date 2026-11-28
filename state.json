@@ -1,17 +1,4 @@
 {
-  "2026-W36": {
-    "category": "Freie Tage",
-    "date_from": "2026-08-28",
-    "date_to": "2026-09-04",
-    "farbe_schiff": null,
-    "file": "36KW2026 5. Änderung.pdf",
-    "mtime": "2026-09-02 17:17",
-    "nachbar_links": "SCHLESWIG - HOLSTEIN",
-    "rang": "NWB*",
-    "revision": 5,
-    "sequence": 0,
-    "summary": "Freie Tage"
-  },
   "2026-W37": {
     "abfahrten_pro_tag": {
       "04.09.2026": "6:00 Wyk-Dagebüll\n7:15 Dagebüll-Wyk\n8:15 Wyk-Wittdün\n9:30 Wittdün-Wyk (direkt)\n11:35 Dagebüll-Wyk\n12:45 Wyk-Dagebüll\n14:05 Dagebüll-Wyk (direkt)\n15:55 Wittdün-Wyk (direkt)\n18:00 Dagebüll-Wyk",
